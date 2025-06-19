@@ -1,4 +1,4 @@
 O Arquivo CRUD foi desenvolvido para Cadastro Inicial de Produtos;
-O Arquivo CRUD V3 frontend e backend foi atualizado para cadastrar produtos e clientes; Backend utilizado BD MySQL e SpringBoot;
+O Arquivo CRUD V3 frontend e backend foi atualizado para cadastrar produtos e clientes. No Backend foi utilizado BD MySQL e SpringBoot;
 O Arquivo Agenda-layout possui um projeto inicial com layout definido.
 O Arquivo Agenda-Frontend refere a uma aplicação para Agenda de Eventos na primeira versão com bd Json.
